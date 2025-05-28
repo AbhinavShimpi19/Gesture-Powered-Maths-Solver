@@ -1,5 +1,5 @@
 # Hand Gesture Equation Solver
-
+Video Link : https://drive.google.com/file/d/11ciTnVuzuelgZY4KzXl7FPHCpc6KhNR8/view?usp=sharing
 ## Overview
 The **Hand Gesture Equation Solver** is an innovative project that leverages computer vision and machine learning to solve mathematical equations using hand gestures. By capturing gestures in real-time, the system interprets inputs, solves equations, and visualizes results interactively.
 
